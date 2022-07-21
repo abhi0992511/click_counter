@@ -1,0 +1,10 @@
+
+#one{
+    color:black
+}
+#b{
+    /* display:flex; */
+    background-color: aliceblue;
+    max-width: 80px;
+    min-height: 90px;
+}
